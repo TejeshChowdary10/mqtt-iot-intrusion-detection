@@ -3,9 +3,6 @@
 > **Evaluating Machine Learning Techniques on Big Data Frameworks for MQTT IoT Security**
 > IEEE I3CTCON 2026 -- DOI: [10.1109/I3CTCON68242.2026.11508116](https://doi.org/10.1109/I3CTCON68242.2026.11508116)
 
-> **Enhancing MQTT Intrusion Detection in IoT Using Machine Learning and Feature Engineering**
-> IEEE Open Journal of the Communications Society (Journal) -- DOI: [10.1109/OJCOMS.2025.3610132](https://doi.org/10.1109/OJCOMS.2025.3610132)
-
 ---
 
 ## Overview
@@ -16,7 +13,6 @@ MQTT is the backbone protocol of most IoT deployments -- lightweight but with mi
 
 ### Published Research
 
-- **Journal:** "Enhancing MQTT Intrusion Detection in IoT Using Machine Learning and Feature Engineering" -- *IEEE Open Journal of the Communications Society*, 2025 (k-NN accuracy: **98.90%**)
 - **Conference:** "Evaluating Machine Learning Techniques on Big Data Frameworks for MQTT IoT Security" -- *IEEE I3CTCON 2026*
 
 ---
